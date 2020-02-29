@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - videocore (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - videocore (from `.symlinks/plugins/videocore/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  videocore:
+    :path: ".symlinks/plugins/videocore/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  videocore: edd722d88f261a25c71ac7fc22b4a423747fe675
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
